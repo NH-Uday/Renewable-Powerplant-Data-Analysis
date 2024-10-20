@@ -1,0 +1,201 @@
+Plant ID,Plant Name,Country,Region,Capacity (MW),Energy Source,Commissioning Date,Status
+d0cde34a-2273-4596-b468-b555245c8349,"Smith, Brown and Baldwin Power Plant",Italy,West,431.72,wind,2002-03-16,operational
+53ab881e-4e6b-4306-a060-52f8fdb194ae,Roy Ltd Power Plant,Afghanistan,West,439.96,solar,2016-03-12,operational
+0adcbfda-ad30-434b-966e-17fa64af04dc,"Bennett, Mcpherson and Bailey Power Plant",Cayman Islands,East,287.42,solar,2006-06-16,under construction
+2c8c3def-ef9a-4985-aeb3-e4fba4e25ed3,"Campbell, Brock and Neal Power Plant",Lao People's Democratic Republic,South,439.06,geothermal,1997-06-04,operational
+c9007487-de41-4d22-9e55-a0c7e8399872,Arnold-Durham Power Plant,Gibraltar,Central,217.05,wind,2010-07-22,decommissioned
+ef2eae46-6c50-4ea3-a5d8-ce3c3fe709ac,Lopez PLC Power Plant,Peru,North,21.4,solar,1998-10-09,under construction
+1f5d87c5-e374-48ca-9680-600c70912474,Reeves Ltd Power Plant,Anguilla,East,169.19,hydro,2023-10-06,operational
+7e7b67b4-e43a-4484-a4a5-a3a418a88323,Vincent PLC Power Plant,Sao Tome and Principe,Central,82.21,geothermal,2023-07-14,under construction
+8800c28f-7453-4b24-ad40-d2b84d81af94,Lopez PLC Power Plant,Maldives,North,225.7,solar,2012-11-08,under construction
+ce974a6a-e068-4b9d-ad5d-d3670f75f98c,Wilson-Smith Power Plant,Guam,South,345.8,hydro,2015-07-06,decommissioned
+5fdae43e-d02e-4e65-b538-864825b97407,"Miller, Johnson and Padilla Power Plant",Gabon,Central,260.53,wind,2019-07-12,under construction
+a7321816-4fa2-429b-af8d-c32103f14cfd,Gordon Inc Power Plant,Norfolk Island,South,493.74,solar,2023-07-02,decommissioned
+29bb360e-d1a1-4288-9f27-97f4720dfc56,"Dillon, Flores and Miller Power Plant",Moldova,South,369.34,hydro,2006-08-16,operational
+c907dca7-da03-4ad3-9f63-a19d62039626,Kelly LLC Power Plant,Netherlands,East,378.88,biomass,2000-08-06,decommissioned
+13b45f64-18ec-49fb-860a-b5998b4c98ec,"Bates, Thornton and Odom Power Plant",Antarctica (the territory South of 60 deg S),South,431.6,biomass,2024-08-22,operational
+4e1e1c3c-e5aa-4f2f-9589-6294d16e2c11,"Dennis, Sanchez and Flores Power Plant",Saint Vincent and the Grenadines,West,431.04,hydro,2003-09-24,under construction
+6e35dead-0444-4efb-be80-8856564b3cbe,Hill Ltd Power Plant,Tuvalu,South,403.53,biomass,2017-10-19,decommissioned
+d3c2adf2-01b3-4d9b-96ca-29178e512a5a,Patton-Hayes Power Plant,Guyana,North,308.11,biomass,2017-08-08,operational
+7121e1a0-4bef-458f-b048-744691d2f2c5,Ramos Group Power Plant,Guinea-Bissau,South,280.43,wind,2003-06-08,operational
+bfb45eea-883d-4ef8-a815-09a17bba68ce,Luna-Jackson Power Plant,Bahamas,North,26.73,geothermal,2008-11-24,decommissioned
+3f8d887b-42d9-4ff1-b456-8d928db4a7b7,Hayes and Sons Power Plant,Belarus,East,97.06,wind,2009-02-23,decommissioned
+66ad114b-8766-4437-bf02-6e0ab6851337,Barry-Reed Power Plant,Afghanistan,East,305.15,solar,2024-04-27,operational
+504c1d6f-4d6f-4c22-8187-c2ac20b2ee49,"Curry, Arnold and Patterson Power Plant",Nauru,South,302.69,geothermal,2019-07-17,operational
+8a8713ca-e76d-451c-b2d0-19fae4c12a0f,"Rodgers, Harris and English Power Plant",Latvia,Central,169.1,hydro,1995-04-24,operational
+04bb7a3a-3488-4578-9203-98ac76b6e40a,Gonzalez-Walker Power Plant,Syrian Arab Republic,East,112.0,solar,1999-09-11,decommissioned
+5f325f1f-c446-471b-a250-fccff28c55a5,Robinson Group Power Plant,Marshall Islands,South,271.16,wind,2012-02-24,operational
+2063ec68-a3cd-4ca7-9ebf-7ad6a3c39bb9,George PLC Power Plant,Guadeloupe,North,476.79,geothermal,2011-10-29,operational
+0e1c53f5-548a-4da8-a7e8-f6fdd12e7292,Davidson-George Power Plant,Poland,South,272.55,biomass,2016-06-08,operational
+1e60cc12-3f8b-4af2-a0ef-46abccb4424a,Newton-Sanders Power Plant,United Kingdom,South,225.05,wind,2004-10-20,under construction
+4bd386b5-c9d6-4b23-8f94-f796a96b5323,Espinoza-Bowers Power Plant,Tanzania,Central,454.52,biomass,2014-08-10,decommissioned
+417a77bd-a98d-44d6-bfec-50f476e84663,"Taylor, Miller and Hunt Power Plant",India,West,153.16,solar,2013-03-19,under construction
+d8b90114-ef55-4336-8c45-c51d7205752d,"Dean, Walker and Romero Power Plant",Sweden,North,239.78,hydro,2002-01-21,under construction
+a1ae5d6f-9898-4fbf-92fe-a9a484f57f5e,"Burke, Booth and Brown Power Plant",Comoros,Central,258.97,solar,2003-01-21,under construction
+f121a71f-f6fe-481d-8467-3282286ea693,Liu-Gaines Power Plant,Slovenia,West,90.76,geothermal,2011-08-04,under construction
+67a0f6b2-a42f-4dbb-a76d-563f5f54d468,"Robles, Hardin and Davis Power Plant",United States of America,West,261.81,hydro,2012-12-04,operational
+c72c826a-a96c-4ff9-9c55-314a7638f934,Marshall Group Power Plant,Norfolk Island,East,173.31,hydro,1999-04-17,operational
+57e2fa98-5c97-4215-936a-45779643201a,Wright-Moore Power Plant,Lebanon,South,413.73,geothermal,2006-09-22,operational
+71829306-b406-419f-9ef6-205ce65b02d1,Young Ltd Power Plant,China,South,114.83,biomass,2004-08-24,under construction
+09fc59db-b6f1-4fe4-b0e8-33cee70e9d38,Bradley Inc Power Plant,China,North,467.93,biomass,2010-08-08,operational
+fc449468-73e1-4313-8bba-95e6b5f825ba,Miller-Young Power Plant,Pakistan,Central,36.61,solar,2018-09-24,decommissioned
+82a8829f-e959-44fd-b26a-02632906bf3b,James Group Power Plant,Estonia,Central,168.9,wind,2005-06-05,under construction
+793af2dc-661d-46db-9100-b7b405625e13,Hernandez-Beltran Power Plant,Aruba,Central,119.12,solar,1999-04-23,under construction
+e9d70d15-eb23-48f9-9800-0f2bc6704b5d,"Shannon, Martinez and Morales Power Plant",Nigeria,Central,94.95,hydro,2006-07-02,operational
+acdf3c0b-be72-459a-a18a-a89329814a72,"Coleman, Johnson and Lee Power Plant",Morocco,North,439.33,solar,2016-12-15,under construction
+cede8c18-ceda-475e-a24c-905b3a185c87,"Rose, Thomas and Buchanan Power Plant",France,East,269.34,geothermal,2014-07-25,under construction
+5da7c23d-8930-443c-9a19-90e0f087bfa7,"Martinez, Griffin and Diaz Power Plant",Sri Lanka,East,98.45,hydro,2023-12-24,operational
+f23187af-fbca-4735-be9a-bab90d6e28cd,"Butler, Contreras and Bentley Power Plant",Brazil,South,229.36,wind,2013-06-24,operational
+8feace79-d937-4897-b782-a33ef2c10399,Lee Group Power Plant,Tajikistan,West,281.97,wind,2013-06-15,decommissioned
+4bc625e2-a658-4234-99a6-98f718cd0747,Hernandez-Marquez Power Plant,Azerbaijan,West,11.25,hydro,2012-10-23,under construction
+8f92210c-1dd6-4322-ae40-4c2a68f93528,Cruz LLC Power Plant,Haiti,North,487.21,wind,2021-09-01,under construction
+61a1e15e-d854-4a59-89aa-c5be98b95dce,"Harris, Carlson and Aguirre Power Plant",Tuvalu,West,487.31,solar,2018-02-04,under construction
+35e457ee-c0d4-4601-a8ad-ee23da2bc109,"Nash, Chambers and Parsons Power Plant",Netherlands Antilles,North,232.02,solar,2023-01-29,under construction
+eee9b0a2-4a15-41ef-9c29-46f6df8c03c7,"Johnson, Santos and Lewis Power Plant",Venezuela,North,420.96,solar,1999-05-06,under construction
+e0162703-deda-45dd-b244-1620aa6eb7f9,"Prince, Mcdonald and Walls Power Plant",Uruguay,North,143.24,wind,1996-11-03,under construction
+1b8adb25-a1ba-4b04-8cd4-b83d1872e239,"Jones, Hamilton and Spencer Power Plant",Albania,Central,430.83,biomass,1997-12-05,decommissioned
+0aac489d-d99a-420f-af8a-5b16bd038300,Hill Ltd Power Plant,Spain,East,106.39,wind,2010-03-21,under construction
+7beee134-b407-4d33-9326-eae0df2e04d2,"Dunn, Joyce and Barber Power Plant",Netherlands,South,316.64,solar,2011-04-29,decommissioned
+7ffe9384-5b97-4a36-84fd-0ab1ae1848f0,Sanchez Inc Power Plant,Thailand,West,415.02,hydro,2018-04-30,decommissioned
+aa64a454-0e41-4cc0-a201-ecc9329ac35a,Hoffman-Hall Power Plant,Niue,East,16.73,wind,2024-02-19,under construction
+09c15dff-6e44-4948-bfbb-6e6cd4c4b221,Wells Ltd Power Plant,French Guiana,Central,412.92,wind,2014-09-26,operational
+88eca5a3-b4ae-4a36-9ae6-21cc7756f739,Jones and Sons Power Plant,Macao,South,381.99,solar,2024-03-17,operational
+aecaf843-e75e-4c78-a65e-f35aa6bba002,"Hicks, Miller and Smith Power Plant",Madagascar,East,91.15,geothermal,2014-10-18,under construction
+d5bdd53a-0952-4bde-8ec0-2540fd1d8321,"Lee, Schultz and Gordon Power Plant",Kiribati,North,293.88,geothermal,2001-02-14,decommissioned
+d9f75a1b-4a61-44af-a44f-9d040bb47d8b,Adams-Duarte Power Plant,Samoa,North,469.36,hydro,1996-01-01,decommissioned
+be93fe65-ed9d-41fe-aea6-efe35b3eb8ca,"Williams, Huff and Johnson Power Plant",Ecuador,East,447.95,solar,2019-09-17,under construction
+6978c075-4abf-4151-ab72-bde84f8213ae,Johnson-Mata Power Plant,Benin,West,318.49,hydro,2019-06-10,decommissioned
+cdfda23e-0263-411b-9245-391a78390ac1,Barnes LLC Power Plant,Poland,East,377.82,geothermal,2013-06-17,under construction
+8865054f-d928-412c-8268-20fcc72107be,Ayala-Dixon Power Plant,Norway,North,61.45,biomass,2017-09-04,decommissioned
+4f2d2a31-5291-4a49-8a52-f9083656f56b,Hendrix-Smith Power Plant,Trinidad and Tobago,East,400.29,geothermal,2021-04-09,under construction
+a2718b35-0e52-46e7-b305-e0e90a5f9420,Montgomery-Boyer Power Plant,Honduras,Central,154.71,biomass,2016-01-11,decommissioned
+d40f876f-06d0-401a-bcb2-6d3c6f0a0237,Roberts LLC Power Plant,Bermuda,North,87.2,solar,2003-03-24,operational
+c391adc2-3f33-4811-92f5-723f934e0304,"Jackson, Murphy and Riggs Power Plant",Isle of Man,East,319.49,geothermal,2020-12-13,decommissioned
+ad50e39f-5bf7-4d09-9d4c-65fb035672ea,Mata-Garcia Power Plant,Azerbaijan,Central,357.83,solar,2010-03-21,operational
+04293901-865f-410b-b846-668c38ae5ad7,"Miller, Little and Hill Power Plant",Eritrea,West,375.74,solar,2024-08-01,under construction
+068a0e7d-99a7-4dee-be03-0a826076ff73,Santiago-Rodriguez Power Plant,Guinea,North,288.87,wind,2008-12-20,under construction
+cf1c22f7-5877-4d44-9772-d4a6017c195b,"Edwards, Williams and Roy Power Plant",Brunei Darussalam,East,207.48,geothermal,2019-06-15,decommissioned
+95ea646e-b38e-41d7-99f2-aa6b931f0712,Oconnor Ltd Power Plant,Finland,Central,273.5,hydro,2003-01-16,decommissioned
+4765b8f7-5b80-4aac-82ae-1e223c58d870,Lopez LLC Power Plant,Faroe Islands,Central,376.68,biomass,2023-07-21,operational
+5a24b2bc-9e9c-4edb-8cc3-7f552a6f6196,"Simpson, Hull and Johnson Power Plant",Djibouti,West,178.24,solar,2012-04-26,under construction
+9655826c-33e7-444c-9f4e-419961fc29cb,Espinoza-Steele Power Plant,Oman,Central,188.61,solar,1999-04-02,decommissioned
+7f22dd1b-22e0-4afc-ab54-bac9b1f05ae8,Mosley PLC Power Plant,Estonia,West,27.13,hydro,2019-03-09,under construction
+bbba9f36-6285-4a1e-832f-ca2c92e85ad4,Smith LLC Power Plant,Kiribati,West,233.78,wind,1998-10-29,under construction
+223a299e-0f30-4c97-9821-8e5c0c31627b,"Mcdaniel, Brown and Martinez Power Plant",Mozambique,East,481.08,wind,2021-02-20,under construction
+97e36e90-3e45-4e5e-ad49-e1710f5562c1,"Brock, Cox and Ingram Power Plant",Saint Martin,Central,222.08,solar,2020-11-26,under construction
+2bc5ae0f-f810-4898-b2ff-ff951e3647b0,Miller-Harris Power Plant,El Salvador,West,169.72,biomass,2004-08-04,decommissioned
+c8dd3d29-a0cb-4f64-8570-0dfff11ff645,"Wood, Mccoy and Bauer Power Plant",French Guiana,South,118.04,solar,2016-11-26,decommissioned
+1c0652fb-f71e-4a2e-a953-16cfdd9e122f,"Hoffman, Sanchez and Torres Power Plant",Gibraltar,Central,151.86,biomass,2016-06-05,under construction
+22cfde57-9a6c-494b-8fa9-51b9707a54e1,Lopez-Luna Power Plant,Fiji,South,74.84,solar,2006-08-19,operational
+48622305-f0de-44f6-af3b-c1b9fa16833d,Coleman LLC Power Plant,Iraq,Central,461.48,solar,2002-08-04,decommissioned
+0fa112c8-2a07-4bb4-bafd-979146c12409,Blair-Olson Power Plant,Solomon Islands,South,94.2,wind,1995-08-11,operational
+73102abf-83c6-4039-b146-438c92d233c1,Frazier Inc Power Plant,Haiti,North,351.1,geothermal,1995-02-01,decommissioned
+5cc2ab55-197b-49c5-811b-73dea5056946,Woods-Cook Power Plant,Kuwait,South,49.05,solar,1997-01-03,under construction
+74bec2d7-57c2-4596-9062-2d06d095c847,Landry PLC Power Plant,Mauritania,North,204.54,wind,1997-07-24,operational
+811834d3-5402-4ef5-811f-1eea4b77c566,Charles PLC Power Plant,Sudan,West,212.2,biomass,2004-11-25,under construction
+b88c9ed9-83cf-40f4-99b5-7ed12a9a9e94,"Barnett, Williams and Melendez Power Plant",Cayman Islands,North,122.28,geothermal,2017-03-25,operational
+3538210b-7635-425f-b137-7ebe2247146c,Banks PLC Power Plant,British Virgin Islands,North,442.41,biomass,2007-08-10,under construction
+dd3ea816-ff7b-4cc6-b08d-097d3ba41fd2,Anderson PLC Power Plant,Senegal,West,490.36,biomass,2020-10-19,decommissioned
+c0689fc2-0f64-4fda-b382-1f5b4d8b6181,"Calderon, Moss and Whitaker Power Plant",Jersey,Central,462.34,solar,1997-10-31,under construction
+f2a23378-052d-4c48-abd6-b7795d4c86bc,"Holder, Haley and Chavez Power Plant",Norfolk Island,West,195.12,geothermal,1997-11-13,under construction
+c812c679-a87f-4cb4-bd11-7fea45ea05c4,Baker Ltd Power Plant,Dominican Republic,North,184.09,geothermal,2001-03-11,under construction
+969500e9-8868-4ba1-89be-7d245644dcc6,"Stevens, Landry and Carrillo Power Plant",Bouvet Island (Bouvetoya),Central,483.89,solar,1999-05-07,under construction
+c43a5b28-662b-48e9-ad50-704fb8d613f9,Miller-Ochoa Power Plant,Palau,Central,100.36,wind,2022-05-10,under construction
+0c3c7cea-5d67-4515-b892-bcd51fbaf7f9,Martinez Inc Power Plant,Korea,Central,461.71,geothermal,2010-10-21,decommissioned
+8452a427-3c21-4ed2-a408-d28253faf320,Lee and Sons Power Plant,Morocco,West,317.16,solar,2018-08-27,operational
+52590abc-5e10-4119-bd61-f4021b412ab7,Cole Inc Power Plant,French Polynesia,South,102.19,wind,1995-04-21,decommissioned
+5f88259a-924a-4e3a-8936-cae27587379e,"Vega, Taylor and Turner Power Plant",Heard Island and McDonald Islands,South,488.06,solar,2016-09-06,operational
+fdb28462-99c4-4c9a-881e-b697e166bf80,"Glover, Brown and Cabrera Power Plant",Netherlands Antilles,Central,86.29,wind,2021-07-25,decommissioned
+893698e8-881b-4587-93d5-5be3fb3a20fd,"Murphy, Walters and Rivas Power Plant",Ecuador,South,92.43,wind,2023-09-04,operational
+ec0b730d-d4d5-479c-832b-9bfd45ce007c,"Dominguez, Martin and Ingram Power Plant",Haiti,West,276.53,geothermal,2005-09-03,under construction
+26b74aad-706a-4992-b3e9-144b29966e61,Todd-Richards Power Plant,Estonia,East,45.69,solar,2011-04-23,operational
+1eca9bc5-fc36-4a0c-b27f-5911be46d083,"Curry, Ellis and Lynch Power Plant",Central African Republic,North,69.59,geothermal,2012-05-11,decommissioned
+f00086dd-e6e3-4b6e-8fd2-5fa38306c439,"Hutchinson, Carter and Kelley Power Plant",Bangladesh,Central,489.23,wind,2004-05-23,operational
+abc064de-0930-4c25-abe7-c8b520ffac6f,Graves PLC Power Plant,Sweden,North,60.86,biomass,2022-06-01,operational
+934b2576-0be9-49e6-bea6-6fc60c714e1d,"Melton, Smith and Brown Power Plant",Tuvalu,South,261.26,geothermal,2016-09-19,operational
+ffa5c428-12a4-4118-b56d-1624b66e089f,"Powell, Morton and Wilkins Power Plant",Djibouti,East,208.16,biomass,2016-03-12,under construction
+9a019af4-560f-427e-9139-99b9fb67addf,"Fischer, Schmidt and Morrison Power Plant",Zambia,North,218.13,geothermal,2001-07-19,decommissioned
+9c2fc435-993b-4bc9-96f8-83b1ecfdd0be,Ruiz Ltd Power Plant,Bhutan,Central,352.24,solar,1997-08-22,decommissioned
+c4873cfb-4ab8-4b33-9555-0ae1816c0ae8,Sandoval-Ferrell Power Plant,Australia,North,247.35,hydro,2023-07-09,decommissioned
+c4d64654-35aa-4dec-b830-c57ec8b15420,Peters Ltd Power Plant,Sweden,North,322.76,solar,2004-08-22,operational
+3129cea0-e78f-4425-862e-0124cc0f2372,"Hammond, Peterson and Horton Power Plant",Kyrgyz Republic,South,427.33,hydro,1995-12-10,decommissioned
+55ad7047-5f69-4f3b-b9fd-6ed3526642c2,Johnson-Jacobs Power Plant,Bhutan,South,392.56,solar,2018-03-14,under construction
+34f49cc9-88b2-49b9-b949-708499637980,Fischer-Cruz Power Plant,Cayman Islands,South,33.19,solar,2007-05-30,decommissioned
+721676e4-4003-4800-96c0-b27e27e42779,Taylor Ltd Power Plant,Holy See (Vatican City State),East,417.5,solar,1999-02-16,under construction
+cbedfbfe-d672-475e-8ca7-34d4ea7d1c76,Mccann-Santana Power Plant,Yemen,Central,68.17,solar,2020-10-17,under construction
+ce39cd85-29d7-448a-840c-4effa029ce0d,Coleman-Anderson Power Plant,Romania,South,412.46,geothermal,2024-08-08,under construction
+54eeb536-0d8d-425e-b86f-1986c2f94153,Mckenzie-Wade Power Plant,Cameroon,South,217.98,hydro,2016-06-13,decommissioned
+89199caa-ca81-4dda-87a7-14a9e56a7bce,Castro-Morris Power Plant,Italy,Central,154.1,wind,2011-05-12,decommissioned
+325ff38a-4393-4546-9c8e-1260854f16cf,"Montgomery, Fitzgerald and Nelson Power Plant",Albania,North,483.18,hydro,2021-08-05,decommissioned
+a33978b5-c767-4b74-ad5b-dc7020229c20,Scott-Holmes Power Plant,Montserrat,South,91.73,hydro,2007-06-20,under construction
+52016ad3-04d2-4e21-99bd-0633d390c2c6,Martinez and Sons Power Plant,Equatorial Guinea,South,375.44,hydro,1999-09-05,decommissioned
+b8fd62ed-e814-493e-abee-a4e768118b57,Mejia Group Power Plant,Ethiopia,North,196.53,hydro,2018-01-13,operational
+ee7c89c4-45bc-4ce0-a447-8edf95a06768,"Dyer, Wright and Lee Power Plant",Burundi,West,127.37,wind,2016-09-17,decommissioned
+e022eb66-ff90-43bf-b927-ad6e7bbfc685,Kirby Group Power Plant,Mexico,Central,273.28,biomass,2008-03-14,operational
+5ffd3bee-0c91-40d5-bf8f-d6359e36fffa,Pearson Inc Power Plant,Latvia,West,79.75,wind,2019-02-15,decommissioned
+c3f255e2-ccf0-41c1-9715-5d312f58a8c7,"Sanders, Kemp and Mccarthy Power Plant",Venezuela,East,260.16,biomass,1998-02-04,decommissioned
+511c3e2b-a1de-4f3a-abed-14111945c53a,Edwards-Hooper Power Plant,Ireland,West,381.67,biomass,2010-09-27,decommissioned
+0977dbfd-7588-43d8-8ff3-c5ab9f58d64c,Johnson and Sons Power Plant,Macao,North,237.65,geothermal,2016-08-13,under construction
+542f30cd-22b4-4f21-8ea8-c7b47cfee335,Nelson-Barrett Power Plant,Solomon Islands,West,327.02,geothermal,2000-02-20,under construction
+6681120a-3a35-42d7-a5cb-52c240153cbc,Rogers-Francis Power Plant,Austria,East,494.18,solar,2021-04-10,decommissioned
+31204028-e678-4b63-ab74-ab384c8f8058,"Bowen, Cook and Morris Power Plant",Japan,East,469.45,geothermal,2012-05-06,under construction
+5373a932-5c67-47d3-8ef8-30a5b95faf3f,"Medina, Daniels and Herman Power Plant",Kyrgyz Republic,North,177.41,wind,2004-09-22,operational
+a15572e4-53b8-4872-8bfb-63bb848c912a,Quinn and Sons Power Plant,Central African Republic,South,377.16,biomass,2022-11-13,decommissioned
+73ef4795-720b-4fca-ab1a-9cd04e2ab383,Rodriguez LLC Power Plant,Papua New Guinea,East,271.79,wind,2016-01-20,under construction
+0b063aae-5c6c-4d4e-a5c1-d6a48b36932a,"Brooks, Smith and Garrett Power Plant",New Caledonia,North,258.25,wind,2007-06-01,decommissioned
+242ba292-a538-4c86-af5a-4d0551372bc7,Jimenez-Howard Power Plant,Moldova,Central,356.19,biomass,1995-12-04,operational
+bea72e3e-16c3-40e0-9a72-518d02f304a7,"Ruiz, Parker and Townsend Power Plant",Oman,East,338.71,wind,1998-02-26,decommissioned
+5a21743c-e757-474e-b461-839d3280303a,Leon PLC Power Plant,Slovenia,East,232.04,hydro,2018-09-01,under construction
+2be1b8d5-a3d4-4f71-8641-09812998d51b,Jones-Ramos Power Plant,Mongolia,East,52.31,geothermal,1996-09-20,under construction
+ea8e71af-5a15-4fb4-8839-10ff545c6fd8,Carney-Phillips Power Plant,Djibouti,North,328.7,geothermal,2023-03-11,operational
+84ca552e-7e2d-454a-b91d-ee8ba00dadde,Austin-Warren Power Plant,Gabon,North,408.69,wind,1996-01-20,decommissioned
+953c6717-42d2-480a-b290-a25ee5815e16,Porter Inc Power Plant,Tanzania,West,278.86,biomass,2008-03-17,operational
+ece859e3-9008-41db-abf3-338c0964a350,Hansen LLC Power Plant,Georgia,East,226.52,geothermal,2001-02-02,operational
+9ef51ae2-7201-46dc-9ec1-9f022b79b9ea,Allison-Jones Power Plant,Iran,North,481.39,solar,2016-05-16,under construction
+0884a6e4-0f04-416e-86ae-aa621c96c9aa,Taylor PLC Power Plant,Marshall Islands,North,398.04,geothermal,1998-02-23,operational
+4b9959bf-56bc-41dc-a889-f25b59dbba86,"Proctor, Anderson and Bell Power Plant",Armenia,Central,217.54,solar,2017-01-18,under construction
+8aab66bb-e3f0-4a3a-b36c-1074752e0b7e,Jimenez-Ray Power Plant,Angola,Central,421.87,solar,2015-02-28,under construction
+5dce7b45-0858-4197-95b4-45c3afc1dbf0,"Baker, Henry and Curtis Power Plant",Pakistan,West,85.18,wind,2022-08-31,under construction
+8cf91880-a6df-4f81-b8f0-bac9323393fe,Perez-Cox Power Plant,Cayman Islands,North,439.61,solar,2014-06-07,decommissioned
+86a467c2-c8f8-4aa7-a9f8-8ede71ff4614,"Dorsey, Bradley and Harper Power Plant",British Virgin Islands,North,165.67,solar,2023-06-18,under construction
+a0cb03d2-f4d4-4dff-8cf5-fdc9942c2591,Ford-White Power Plant,Montenegro,East,381.27,wind,2007-10-10,decommissioned
+5b2f8cc6-ecab-4cba-a6e0-4cf266d9a056,Valencia-Guerrero Power Plant,Honduras,East,237.03,geothermal,2001-12-12,under construction
+f65e4a09-1147-41fd-a6d2-257b1c62122e,Krause Group Power Plant,Guatemala,South,348.88,biomass,2012-10-01,under construction
+b0955c71-3bdd-4d4f-aeb5-9cce5fc851c2,"Matthews, Brown and Cross Power Plant",United States Virgin Islands,Central,234.45,wind,2009-12-07,under construction
+8eeddef2-8c55-4c8e-8f13-a76a39d8bba9,Coffey-Gomez Power Plant,Suriname,South,241.62,solar,2021-05-26,decommissioned
+78c5131f-4067-4b3b-9621-705869e0acd3,"Stewart, Williams and Horton Power Plant",Bouvet Island (Bouvetoya),North,296.68,hydro,2012-03-21,under construction
+cd4091a0-9224-44e8-b417-bae695bb7e41,Craig-Hampton Power Plant,Libyan Arab Jamahiriya,East,422.37,biomass,2012-02-24,under construction
+4423bd13-3cda-45d2-b311-50b21e89c659,"Hicks, Alvarez and Sims Power Plant",Denmark,Central,315.6,biomass,2008-07-09,operational
+bf152e17-c630-44df-8f8c-c7d223fba991,Rogers-Johnson Power Plant,Serbia,Central,270.76,wind,2024-07-31,under construction
+02254a0a-59c8-4fd6-b6ac-4144f8636258,Bowen Inc Power Plant,French Polynesia,West,466.32,wind,2005-09-18,decommissioned
+ea3fd218-0d80-43bd-b9ff-3afffce72f17,Parker-Martinez Power Plant,Montenegro,East,476.87,solar,2008-02-29,decommissioned
+03133965-833c-49a6-8522-50fda2c0cb5b,Rodriguez-Davidson Power Plant,Sri Lanka,Central,356.48,hydro,1999-12-19,decommissioned
+28c144a0-d5d3-40e1-9a57-4c0f415b381b,Mcdowell Inc Power Plant,Micronesia,Central,101.33,hydro,2015-11-07,decommissioned
+3d31c4e3-9a2b-406e-85e8-ecbb44b367e9,Smith Inc Power Plant,Aruba,South,335.55,geothermal,2002-07-31,under construction
+258e9181-8224-4fb6-929a-b753f63e8c92,Watson LLC Power Plant,Uzbekistan,Central,43.85,geothermal,2024-03-23,operational
+6ffc4ee3-5c15-4c2b-ac7d-b17128660487,"Shaw, Dixon and Brown Power Plant",Georgia,North,116.76,solar,2018-01-21,under construction
+ea1e8952-5ed2-4cdf-897c-dc2b479cef0e,Vasquez-Trujillo Power Plant,Tonga,North,66.37,geothermal,1997-05-28,under construction
+d553d9c4-e06c-4874-852f-47a7a353acb1,Smith-Moore Power Plant,Sao Tome and Principe,West,310.08,biomass,2011-06-14,under construction
+a104e8a2-bec1-46ec-a833-019af903cbc0,"Morgan, Kelly and Horton Power Plant",Gambia,Central,235.67,biomass,2022-06-19,operational
+a6d9e369-a7dd-41bd-a72c-9ceb3d1b91b6,"Oliver, Ray and Anderson Power Plant",Aruba,Central,210.02,geothermal,2013-09-18,operational
+c762f76b-e912-4519-a5c6-a6d2ec762abd,Brown and Sons Power Plant,Kyrgyz Republic,East,334.09,biomass,2014-03-19,decommissioned
+5da35125-4cb8-47e8-b6e7-3a9f199a0bc4,Martinez Group Power Plant,Reunion,East,167.22,wind,1998-04-20,under construction
+a4a8f123-50c9-4fd9-b9b3-e65f36480483,Villegas-Bowers Power Plant,Portugal,Central,457.57,biomass,2014-01-17,under construction
+c54944ea-fef4-44c1-a5c9-622c8ab6e7cc,White-Foster Power Plant,Uzbekistan,North,415.83,solar,2011-09-14,decommissioned
+e8cb9994-574b-4f87-ba3e-553065a7cf23,Riley LLC Power Plant,Syrian Arab Republic,North,393.53,biomass,1998-06-18,decommissioned
+6a869b3c-33ba-43ff-b0f2-3f16eac079f2,Santana Inc Power Plant,San Marino,South,121.66,geothermal,2005-07-27,decommissioned
+12d28b3a-5868-4c01-8d53-c8d2656275ce,"Williams, Conway and Glass Power Plant",Turks and Caicos Islands,Central,106.07,wind,2014-04-16,under construction
+7a305209-f8d3-4e1f-beac-57ed379f8eb5,Perez LLC Power Plant,Pitcairn Islands,East,115.73,biomass,2004-03-11,under construction
+e50f39fb-39ed-45b4-8bc4-e57b9762bc8b,"Roberts, Johnson and Mcdonald Power Plant",Ukraine,North,184.79,solar,2010-09-21,under construction
+9e8d5cc4-033a-4917-9359-cc9c045179de,"Austin, Strong and Miller Power Plant",Bulgaria,West,59.45,biomass,2019-08-25,decommissioned
+3b1e2f67-35cd-4676-ad3f-2d452d6fb038,King Ltd Power Plant,Gabon,South,327.13,biomass,2021-08-20,decommissioned
+e59f11e2-e4cc-4346-b7a5-6509a485d34c,"Church, Hamilton and Johnson Power Plant",Monaco,East,352.95,solar,2014-02-05,operational
+b3940dcb-5b64-4257-a326-28650d6ae541,"Campbell, Cruz and Serrano Power Plant",Nepal,Central,396.89,solar,2010-06-27,under construction
+e339f07e-d95f-438b-aa11-a351077ebbea,Davis Group Power Plant,Benin,West,413.33,hydro,2017-09-25,operational
+ddbd85d8-24ca-4be8-aa44-4fe41dbf5fc1,"Ross, Salazar and Lopez Power Plant",Nauru,West,55.2,biomass,2016-01-15,operational
+6f4dd741-5865-4244-9877-21f4097c51f2,Carr Group Power Plant,Angola,Central,191.23,hydro,2008-10-23,under construction
+7ee08afe-d702-42df-a187-8b0e2fb673d9,Gilbert and Sons Power Plant,Grenada,Central,213.61,hydro,2020-12-09,operational
+2fbb00aa-c4d6-4446-8e8e-becb1ee79560,Lucas-Welch Power Plant,United States of America,Central,445.75,biomass,1995-02-18,operational
+348e900a-2228-47ad-a6e9-a69742f2d214,"Becker, Chapman and Perez Power Plant",Lao People's Democratic Republic,North,11.11,geothermal,2021-09-29,under construction
+4cb617ad-5ea1-4be0-922a-9807c3a905fa,"Cunningham, Roberts and Flowers Power Plant",Guinea,North,66.23,wind,2016-07-27,under construction
+b8ad43c5-6b9a-425f-a8e9-9df16153e27a,"Bowers, Le and Wood Power Plant",Italy,East,337.41,hydro,2012-06-07,under construction
